@@ -6,5 +6,6 @@
 
   [네이버]
   http://www.naver.com
+  
   [구글]
-  gttp://google.com
+  http://google.com
